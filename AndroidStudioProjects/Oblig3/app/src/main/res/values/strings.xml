@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">Oblig3</string>
+    <string name="app_name">Time Registration</string>
+    <string name="info_button">Show info and time registration</string>
+    <string name="start_stop">Start/Stop registration</string>
+    <string name="action_newProject">Create new project</string>
+    <string name="project_nr">Project Nr:</string>
+    <string name="project_name">Project Name:</string>
+    <string name="project_leader">Project Leader:</string>
+    <string name="project_status">Status:</string>
+    <string name="button_save_project">Save Project</string>
+    <string name="create_project">was created...</string>
+    <string name="error_create_project">Could not create project...</string>
+    <string name="action_exit">Terminate App</string>
 </resources>
